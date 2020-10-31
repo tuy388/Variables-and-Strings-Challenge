@@ -4,7 +4,7 @@ let massageB = prompt('Insert World A : ');
 let massageC = prompt('Insert World A : ');
 
 
-
+// HAHA
 // 2. Combine the input with other words to create a story.
 
 let combine_massage = `<p>A = ${massageA} | B = ${massageB} | C = ${massageC} !!</p>`
